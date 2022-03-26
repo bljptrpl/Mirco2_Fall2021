@@ -1,0 +1,5 @@
+cmake --build . -- -v
+[1/3] cmd.exe /C "cd /D C:\Users\dvill\Desktop\workspace-eclipse\Lab2_goals\build\bootloader && C:\Users\dvill\.espressif\tools\cmake\3.16.4\bin\cmake.exe --build ."
+ninja: no work to do.
+Build complete (0 errors, 0 warnings): C:\Users\dvill\Desktop\workspace-eclipse\Lab2_goals\build
+Total time taken to build the project: 522 ms

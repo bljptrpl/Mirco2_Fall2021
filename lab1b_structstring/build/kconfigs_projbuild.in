@@ -1,0 +1,5 @@
+source "C:/Users/Death/Desktop/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/Death/Desktop/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Death/Desktop/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Death/Desktop/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/Fall2021/MicroII/eclipse-workspace/lab1b_structstring/main/Kconfig.projbuild"

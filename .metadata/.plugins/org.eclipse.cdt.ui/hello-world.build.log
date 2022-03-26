@@ -1,0 +1,11 @@
+cmake --build . -- -v
+[1/307] cmd.exe /C "cd /D C:\Users\dvill\Desktop\workspace-eclipse\hello-world\build\bootloader && C:\Users\dvill\.espressif\tools\cmake\3.16.4\bin\cmake.exe --build ."
+ninja: no work to do.
+[2/305] cmd.exe /C "cd /D C:\Users\dvill\Desktop\workspace-eclipse\hello-world\build\esp-idf\mbedtls && python C:/Users/dvill/Desktop/esp-idf/components/mbedtls/esp_crt_bundle/gen_crt_bundle.py --input C:/Users/dvill/Desktop/esp-idf/components/mbedtls/esp_crt_bundle/cacrt_all.pem -q"
+FAILED: esp-idf/mbedtls/x509_crt_bundle 
+cmd.exe /C "cd /D C:\Users\dvill\Desktop\workspace-eclipse\hello-world\build\esp-idf\mbedtls && python C:/Users/dvill/Desktop/esp-idf/components/mbedtls/esp_crt_bundle/gen_crt_bundle.py --input C:/Users/dvill/Desktop/esp-idf/components/mbedtls/esp_crt_bundle/cacrt_all.pem -q"
+gen_crt_bundle.py: Invalid certificate in C:/Users/dvill/Desktop/esp-idf/components/mbedtls/esp_crt_bundle/cacrt_all.pem
+Invalid certificate
+ninja: build stopped: subcommand failed.
+Build complete (0 errors, 0 warnings): C:\Users\dvill\Desktop\workspace-eclipse\hello-world\build
+Total time taken to build the project: 1,231 ms
